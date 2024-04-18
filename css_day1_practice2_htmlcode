@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="styleSheet" href="style2.css"
+    <title>Document</title>
+</head>
+<body>
+    <p>equivalent to rgb(255,255,255)=white</p>
+    <p1>possible rgb for and hexcode for the following color - orange-yellow, sky blue= for yellow-rgb(255,255,0) and(#ffff00) and for blue -rgb(0,0,255) and (#0000ff)</p1>
+</body>
+</html>
