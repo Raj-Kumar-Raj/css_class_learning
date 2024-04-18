@@ -1,0 +1,32 @@
+<!DOCTYPEhtml>
+<htmllang="en">
+    <head><metacharset="UTF-8"/><metahttp-equiv="X-UA-Compatible"content="IE=edge"/><metaname="viewport"content="width=device-width,initial-scale=1.0"/>
+        <link rel="styleSheet" href="style3.css">
+         <title>CSSAssignment</title></head>
+        <body>
+            
+            <h1 id="mainTopic">CSSPractice</h1>
+            <h3>Let'slearnaboutselector.</h3>
+            <!--Paragraph1--><p>Therearemultipleselectorsincss.</p>
+            <!--Paragraph2--><p>Someofthemincludeclassselector,idselectoretc.</p>
+            <!--Paragraph3--><p>Andwecanalsocombinethesetoo.</p>
+            <div>ruv01122@gmail.com
+    <h5>Didyoulikethepracticeset?</h5>
+    <input type="checkbox"id="yes"/>
+    <label for="yes">Yes</label><br/>
+    <button>Learnnext!</button>
+</div>
+</body>
+</html>
+
+<!--PARTA(Selectors)
+    Qs1.Give the h1header a unique id-“mainTopic” & set its color to blue using the idselector.
+    Qs2.Alignallthetextinthepagetothecenterusingauniversalselector.
+    Qs3.Changethefontstyleofallheadingtagsinthepageto‘Georgia’.
+    Qs4.Setthecolorofalltheparagraphstowhite&backgroundcolortocornflowerblue.(Withoutusingtheelementselector-‘p’)
+    Qs5.Selectallbuttonsinside  div andchangetheirbackgroundcolorto purple &textcolorto azure.PARTB(Pseduoclass&elements)ruv01122@gmail.com
+Qs6.Changethebutton backgroundcolorto yellow & textcolor to blue when we hoverover it.
+Qs7.Change the coloro f every odd numbered paragraph to yellow.(Paragraph1&3)
+Qs8.Change the color ofthe first letter of h1 headingto  red.
+Qs9.Set the textcolorofthe checkbox labelto darkgreen whenthecheckboxis ticked.
+Qs10.Order the se rules according to  their specificity,from least specific to mostspecific.:-h1-#mainContent-.main-div.main -->
